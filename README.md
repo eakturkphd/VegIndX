@@ -3,7 +3,7 @@
 **VegIndX** is a Google Earth Engine (GEE) application designed for computing, visualizing, and exporting multiple vegetation indices (NDVI, EVI, SAVI, etc.) from Landsat 8 imagery.  
 
 This tool was developed as part of the study:  
-> Akturk, A. (2025). *A geospatial approach to vegetation monitoring: Multi-indices analysis with Landsat 8 via Google Earth Engine*.  
+> Akturk, E. (2025). *A geospatial approach to vegetation monitoring: Multi-indices analysis with Landsat 8 via Google Earth Engine*.  
 > [ResearchGate Link](https://www.researchgate.net/publication/384297529_A_geospatial_approach_to_vegetation_monitoring_Multi-indices_analysis_with_Landsat_8_via_Google_Earth_Engine)
 
 ---

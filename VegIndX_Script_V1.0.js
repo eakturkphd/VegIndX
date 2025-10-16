@@ -460,7 +460,7 @@ function exportIndexImage() {
     region: roiGeometry,
     fileFormat: 'GeoTIFF',
     folder: 'GEE_Export',
-    maxPixels: 1e9
+    maxPixels: 1e13
   });
   
   print('Export initiated for ' + selectedIndex + '. Check your Google Drive after a few minutes.');
